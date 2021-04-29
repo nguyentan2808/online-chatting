@@ -1,0 +1,9 @@
+body {
+    background: lightblue;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
